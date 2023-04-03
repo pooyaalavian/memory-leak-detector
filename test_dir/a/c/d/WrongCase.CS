@@ -1,0 +1,1 @@
+wrong-case.cs(1,1): error CS2001: Source file 'test_dir\a\c\d\WrongCase.CS' could not be found
