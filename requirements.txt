@@ -1,3 +1,4 @@
 openai
 python-dotenv
 autopep8
+transformers
